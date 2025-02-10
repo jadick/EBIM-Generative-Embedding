@@ -1,0 +1,10 @@
+numpy
+more-itertools
+matplotlib
+tqdm
+opencv-python
+pandas
+seaborn
+ipywidgets
+jupyter
+ipykernel
